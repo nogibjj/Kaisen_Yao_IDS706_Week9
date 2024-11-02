@@ -1,15 +1,19 @@
-[![Install](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows//install.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows/install.yml)
-[![Format](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows/format.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows/format.yml)
-[![Lint](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows/lint.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows/lint.yml)
-[![Test](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows/test.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week3_Individual/actions/workflows/test.yml)
-## Project #1: Continuous Integration using Gitlab Actions of Python Data Science Project
+[![Install](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows//install.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/install.yml)
+[![Format](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/format.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/format.yml)
+[![Lint](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/lint.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/lint.yml)
+[![Test](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/test.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/test.yml)
+
+## Cloud-Hosted Notebook Data Manipulation
+
+## Google Collab Link
+[Google Collab Link](https://colab.research.google.com/drive/1zW7DdPzK6yQPfS7_POMWWP8dWBF6yO-1)
 
 ## Youtube Video Link
 [Youtube Link](https://youtu.be/pkq37HpXZNg)
 
 ### Directory Tree Structure 
 ```
-Kaisen_Yao_IDS706_Week3_Individual/
+Kaisen_Yao_IDS706_Week9/
 ├── .devcontainer/
 │   ├── devcontainer.json
 │   └── Dockerfile
@@ -35,8 +39,9 @@ Kaisen_Yao_IDS706_Week3_Individual/
 ├── test_lib.py
 └── test_main.py
 ```
+
 ### Purpose of Project
-The purpose of this project is to build upon the last three mini-projects to simulate best practices of continuous integration in Data Science projects. The project uses a dataset that provides an urbanization index for U.S. congressional districts. It contains details like urbanization index, rural and urban population distributions, and partisan lean.
+The project's purpose is to demonstrate proficiency in setting up and utilizing a cloud-hosted Jupyter Notebook environment, specifically using Google Colab. This includes performing data manipulation tasks on a provided sample dataset. 
 
 ## Preparation 
 1. Open codespaces 
