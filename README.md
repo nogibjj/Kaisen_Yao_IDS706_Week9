@@ -1,7 +1,7 @@
-[![Install](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows//install.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/install.yml)
-[![Format](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/format.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/format.yml)
-[![Lint](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/lint.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/lint.yml)
-[![Test](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/test.yml/badge.svg)](https://github.com/kaisenyao/Kaisen_Yao_IDS706_Week9/actions/workflows/test.yml)
+[![Install](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows//install.yml/badge.svg)](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows/install.yml)
+[![Format](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows/format.yml/badge.svg)](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows/format.yml)
+[![Lint](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows/lint.yml/badge.svg)](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows/lint.yml)
+[![Test](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows/badge.svg)](https://github.com/nogibjj/Kaisen_Yao_IDS706_Week9/actions/workflows/test.yml)
 
 ## Cloud-Hosted Notebook Data Manipulation
 
